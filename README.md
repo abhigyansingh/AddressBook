@@ -8,7 +8,6 @@ psst- later on may try to create a cli/gui based admin panel or if someone else 
 
 As a start the first frontend webapp would be titled "Electronic Home lease, agreement & maintenance system".
 
-## Steps to get working with node.js on local system
 ### SOFTWARE REQUIREMENTS: 
 Database: MySQL, Mongo
 
@@ -18,14 +17,22 @@ Front end: HTML, xHTML, Java Script, React.js
 
 Editor: Jupyter, VS code
 
-## HARDWARE REQUIREMENTS: :what:
+### HARDWARE REQUIREMENTS: :scream: :confounded:
 Processor: P4 should suffice
 
 Ram : 512 MB RAM.
 
 Storage : 30 GB 
 
-### Step 1 : Prerequisites or setting up the sytem for development
+## Steps to get working with node.js on local system
+
+### Step 1 :grin: Prerequisites or setting up the sytem for development
 Install the following in local:-
-GIT - For Lnux/Windows use Terminal or gitbash. Help resource [URL] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-Node - First install nodenv or nvm but not both. resource url - to [install nvm ->easy to understand] (https://medium.com/@nbanzyme/easy-way-to-install-nvm-on-ubuntu-18-04-2cfb19ee5391) ,or to [install nodeenv -> recomended] (https://github.com/ekalinin/nodeenv#nodejs-virtual-environment).
+
+**GIT** - For Lnux/Windows use Terminal or gitbash. Help resource [URL] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+**Node** - 
+- First install nodenv or nvm but not both. resource url - to [install nvm ->easy to understand] (https://medium.com/@nbanzyme/easy-way-to-install-nvm-on-ubuntu-18-04-2cfb19ee5391) ,or to [install nodeenv -> recomended] (https://github.com/ekalinin/nodeenv#nodejs-virtual-environment).
+- Then install npm & node :persevere:
+
+*contd
