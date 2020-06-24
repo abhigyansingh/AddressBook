@@ -3,8 +3,7 @@
 ## About
 The project backend will be handled by node.js and the the architecture will be headless. As such extending the application would be easier and the existing Node backend would help in making a scalable backend able to serve multiple clients. 
 
-Here I've ruled out DENO based on how it fetches libraries also since its new any advantage it provides will be nullified by the r&d time consumed. 
-psst- later on may try to create a cli/gui based admin panel or if someone else does I'll try to add it later.
+Here I've ruled out DENO as any advantages it provides will be nullified in r&d. 
 
 As a start the first frontend webapp would be titled "Electronic Home lease, agreement & maintenance system".
 

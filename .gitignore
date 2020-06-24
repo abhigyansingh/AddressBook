@@ -1,0 +1,9 @@
+# Any folders that you don't want to commit add their path here
+/plugins
+/shims
+/version
+/versions
+/sources
+/cache
+/src/*.o
+/node_modules
