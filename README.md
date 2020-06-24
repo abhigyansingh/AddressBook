@@ -1,14 +1,16 @@
-# About Project
-The project backend will be handled by node.js and the the architecture will be headless. As such extending the application would be easier and the existing Node backend would help in making a scalable backend able to serve multiple clients.
-Here I've ruled out DENO as a serious contender based on how it fetches libraries & the fact that its so new any advantage it provides will be nullified by the r&d time consumed.
-psst- later on may try to create a cli/gui based admin panel to stop anyone from using the bad parts of node aka process, which can explicitly access the OS in ways that a server should ideally not. Or if someone else does I'll try to add it later.
+# Electronic Home lease, agreement & maintenance system
+
+## About
+The project backend will be handled by node.js and the the architecture will be headless. As such extending the application would be easier and the existing Node backend would help in making a scalable backend able to serve multiple clients. 
+Here I've ruled out DENO based on how it fetches libraries also since its new any advantage it provides will be nullified by the r&d time consumed. 
+psst- later on may try to create a cli/gui based admin panel or if someone else does I'll try to add it later.
 
 As a start the first frontend webapp would be titled "Electronic Home lease, agreement & maintenance system".
 
-# Steps to get working with node.js on local system
-## SOFTWARE REQUIREMENTS:
-Database: MySQL, Mongo
-Server: node.js, Python
+## Steps to get working with node.js on local system
+### SOFTWARE REQUIREMENTS: 
+Database: MySQL, Mongo 
+Server: node.js, Python 
 Front end: HTML, xHTML, Java Script, React.js
 Editor: Jupyter, VS code
 
