@@ -10,14 +10,19 @@ As a start the first frontend webapp would be titled "Electronic Home lease, agr
 
 ## Steps to get working with node.js on local system
 ### SOFTWARE REQUIREMENTS: 
- Database: MySQL, Mongo; 
- Server: node.js, Python 
- Front end: HTML, xHTML, Java Script, React.js
+Database: MySQL, Mongo
+
+Server: node.js, Python 
+
+Front end: HTML, xHTML, Java Script, React.js
+
 Editor: Jupyter, VS code
 
-## HARDWARE REQUIREMENTS:
+## HARDWARE REQUIREMENTS: :what:
 Processor: P4 should suffice
+
 Ram : 512 MB RAM.
+
 Storage : 30 GB 
 
 ### Step 1 : Prerequisites or setting up the sytem for development
