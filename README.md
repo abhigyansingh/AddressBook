@@ -23,15 +23,40 @@ Ram : 512 MB RAM.
 
 Storage : 30 GB 
 
-## Steps to get working with node.js on local system
+## Steps to begin development on local system
 
-### Step 1 :grin: Prerequisites or setting up the sytem for development
-Install the following in local:-
+### Step 1 :grin: Prerequisites 
 
-**GIT** - For Lnux/Windows use Terminal or gitbash. Help resource [URL] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+Check if the following are installed in your local:-
+
+- GIT
+- Python, anaconda, jupyter
+- React-cli
+- node.js
+- mysql
+- mongodb
+
+### Step 2: Installing GIT
+
+**GIT** - For Linux use Terminal & gitbash for windows. Help resource [URL] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+### Step 3: Installing Node
 
 **Node** - 
 - First install nodenv or nvm but not both. resource url - to [install nvm ->easy to understand] (https://medium.com/@nbanzyme/easy-way-to-install-nvm-on-ubuntu-18-04-2cfb19ee5391) ,or to [install nodeenv -> recomended] (https://github.com/ekalinin/nodeenv#nodejs-virtual-environment).
 - Then install npm & node :persevere:
 
+### Step 4 : Installing Python
+
+### Step n: Cloning the repo & moving to develop branch
+- Repo [url] (https://github.com/abhigyansingh/tercio)
+- at terminal or git bash enter `git clone <repo_url>`
+- `cd` into project repository named tercio unless new name given
+- Use `git status` to find the general stauts
+- use `git checkout develop` to switch to develop branch
+- To create & goto new branch '-b' can be used eg `git checkout -b hotfix2`
+
+### Step : Installing the project
+
+### Step : Running the dev server
 *contd
