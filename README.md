@@ -39,7 +39,10 @@ Check if the following are installed in your local:-
 
 ### Step 2: Installing GIT
 
-**GIT** - For Linux use Terminal & gitbash for windows. Help resource [URL] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+**GIT** 
+- For Installing git follow [this article for better depth] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) otherwise [this one]  (https://www.atlassian.com/git/tutorials/install-git)
+- Both articles have info for Linux & Windows both.
+
 
 ### Step 3: Cloning the repo & moving to development branch
 
